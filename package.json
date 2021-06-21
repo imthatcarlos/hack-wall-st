@@ -1,0 +1,21 @@
+{
+  "name": "hack-wall-st",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@superfluid-finance/ethereum-contracts": "^1.0.0-rc.4",
+    "hardhat": "^2.4.0",
+    "uniswap-v3-deploy-plugin": "^0.1.0"
+  },
+  "dependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "@openzeppelin/contracts-ethereum-package": "^3.0.0",
+    "ethers": "^5.3.1"
+  }
+}
